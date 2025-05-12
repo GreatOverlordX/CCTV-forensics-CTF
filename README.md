@@ -17,4 +17,8 @@ due to personal preferences.
 Make sure you have `scapy` for this.
 
 `pip` install it, if not.
-GL!
+
+ALSO! You will get the frames (which the video consists of),
+so make sure you have a clean folder for that amount of data.
+
+Good Luck!
